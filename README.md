@@ -7,5 +7,5 @@ STEPS:
 4. use `node index.js` to run in terminal
 5. see results in console 
 
-HTML file is provided but will only display in debug terminal 
+HTML file is provided but will only display in debug terminal,  
 may be updated later to display in a webpage fully
